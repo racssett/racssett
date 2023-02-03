@@ -10,7 +10,7 @@ A software engineer with a love for hiking, mixology, and gaming.
 
 Learn a little bit more about me and check out my latest work!
 
-### <a href="https://rachel-hassett.netlify.app/about">Rachel Hassett</a>.
+### <a href="https://rachel-hassett.netlify.app/about">Rachel Hassett</a>
 
 ## Work Desk
 
