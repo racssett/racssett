@@ -3,5 +3,5 @@
 A software engineer with a love for hiking, mixology, and gaming. 
 
 ## Tech Stack
-![HTML 5](assets/html-5.svg) ![css 3](assets/css-3.svg) ![JavaScript](assets/javascript.svg) ![React](assets/React-icon.png) ![git](assets/git-icon.svg)
-![nodeJS](assets/nodejs-icon.svg) ![Docker](assets/docker-icon.svg) ![Django](assets/django.svg) ![MongoDB](assets/mongodb-icon.svg) ![Bootstrap](assets/bootstrap.svg)
+<img src="./assets/html-5.svg" width="50"> <img src="./assets/css-3.svg" width="50"> <img src="./assets/javascript.svg" width="50"> <img src="./assets/React-icon.png" width="50"> <img src="./assets/git-icon.svg" width="50">
+<img src="./assets/nodejs-icon.svg" width="50"> <img src="./assets/django.svg" width="50"> <img src="./assets/docker-icon.svg" width="50"> <img src="./assets/mongodb-icon.svg" width="50"> <img src="./assets/bootstrap.svg" width="50">
