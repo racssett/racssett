@@ -16,6 +16,6 @@ Learn a little bit more about me and check out my latest work!
 
 Currently I am working on:
 
-- Learning C#
+- Learning C++
 - Creating an app for planning dates and hangouts
 - Icebox features from past projects
